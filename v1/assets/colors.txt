@@ -1,0 +1,6 @@
+Black      #000000
+Green      #4e6688
+Light Grey #E5E5E5
+Purple     #9d44b5
+Salmon     #f78e69
+Yellow     #cad413
